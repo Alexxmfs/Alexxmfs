@@ -15,7 +15,7 @@
   <img align="center" alt="Alex-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Alex-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Alex-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />
-  <img align="center" alt="Alex-Dart" height="30" width="40" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fuxwing.com%2Fdart-programming-language-icon%2F&psig=AOvVaw35lupW1Ja8314uAkrZV6TT&ust=1651256230392000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCNiFhIevt_cCFQAAAAAdAAAAABAD">
+  <img align="center" alt="Alex-Dart height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original-wordmark.svg" />
   <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://c.tenor.com/tm3KA5yrnmMAAAAM/hacker-man-hacker.gif"/>
 
   </div>
