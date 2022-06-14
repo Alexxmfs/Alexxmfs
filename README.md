@@ -33,7 +33,6 @@
   <img src="https://img.shields.io/badge/📄%20Resume-24292e?style=for-the-badge&labelColor=24292e" target="_blank"></a>
 
       
-    https://img.shields.io/badge/📄%20Resume-24292e?style=for-the-badge&labelColor=24292e
     
   ![Snake animation](https://github.com/Alexxmfs/Alexxmfs/blob/output/github-contribution-grid-snake.svg)
     
