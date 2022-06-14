@@ -29,7 +29,7 @@
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href = "https://api.whatsapp.com/send/?phone=5511945886644&text=Ol%C3%A1+vim+pelo+GitHub&app_absent=0">
   <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
-  <a href = "https://api.whatsapp.com/send/?phone=5511945886644&text=Ol%C3%A1+vim+pelo+GitHub&app_absent=0">
+  <a href = "https://github.com/Alexxmfs/Alexxmfs/blob/https/github.com/Alexxmfs/245tp1/Alex%20Macedo%20-%20(Portugu%C3%AAs)%20CV.pdf">
   <img src="https://img.shields.io/badge/📄%20Resume-24292e?style=for-the-badge&labelColor=24292e" target="_blank"></a>
 
       
