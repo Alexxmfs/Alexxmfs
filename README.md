@@ -16,8 +16,8 @@
   <img align="center" alt="Alex-CSS" height="30" width="40"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Alex-CSS" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
   <img align="center" alt="Alex-Dart" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" />
-  <img align="right" alt="Alex-pic" height="150" style="border-radius:50px" src="https://c.tenor.com/tm3KA5yrnmMAAAAM/hacker-man-hacker.gif"/>
-
+  <img align="center" alt="Alex-Dart" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+  <img align="right" alt="Alex-pic" height="150" style="border-radius:50px" src="https://c.tenor.com/tm3KA5yrnmMAAAAM/hacker-man-hacker.gif"/>          
   </div>
 
  ##
