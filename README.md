@@ -17,7 +17,7 @@
   <img align="center" alt="Alex-CSS" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
   <img align="center" alt="Alex-Dart" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" />
   <img align="center" alt="Alex-Dart" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-     <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://c.tenor.com/29Ok5pc0ivAAAAAM/gatinho-gato.gif">
+     <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://www.oversodoinverso.com.br/wp-content/uploads/2020/08/meme-crying-cat-2-1.jpg">
   </div>
 
  ##
