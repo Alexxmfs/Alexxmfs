@@ -18,7 +18,6 @@
   <img align="center" alt="Alex-Dart" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" />
   <img align="center" alt="Alex-Dart" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
   <img align="center" alt="Alex-NodeJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-
      <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;"
           src="https://i.pinimg.com/564x/a3/54/f2/a354f2a3713632f175ffa37ef9a73a3b.jpg">
   </div>
