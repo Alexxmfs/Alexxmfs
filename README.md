@@ -18,8 +18,9 @@
   <img align="center" alt="Alex-Dart" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" />
   <img align="center" alt="Alex-Dart" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
   <img align="center" alt="Alex-NodeJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-  <img align="center" alt="Alex-NextJS" height="30" width="40"                     
+  <img align="center" alt="Alex-TypeScript" height="30" width="40"        
   src="https://raw.githubusercontent.com/gilbarbara/logos/0fabdf6def45abdfa138996fc20392e8004ad0b9/logos/nextjs-icon.svg" />
+  <img align="center" alt="Alex-NextJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
        <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" 
           src="https://i.pinimg.com/564x/a3/54/f2/a354f2a3713632f175ffa37ef9a73a3b.jpg" >
   </div>
@@ -37,3 +38,4 @@
   ![Snake animation](https://github.com/Alexxmfs/Alexxmfs/blob/output/github-contribution-grid-snake.svg)
     
   </div>
+  
