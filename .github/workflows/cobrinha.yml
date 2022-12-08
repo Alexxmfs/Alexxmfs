@@ -23,4 +23,3 @@ jobs:
           build_dir: dist
         env:
           PAT_1: ${{ secrets.PAT_1 }}
-          
