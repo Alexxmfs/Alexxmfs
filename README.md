@@ -1,8 +1,9 @@
 
 ## Olá! Eu sou o Alex Macedo
 
-- 🔭 Cursando Desenvolvimento de Sistema Etec Barueri
-- 🌱 Estudando React-Native
+- 💻 Cursando Sistemas de Informação ESPM TECH
+- 🔭 Concluído Desenvolvimento de Sistema Etec Barueri
+- 🌱 Estudando React-Native, ReactJS, JavaScript, Java, NodeJS 
 - 😄 Pronouns: ele/dele
 
 <div align="center">
