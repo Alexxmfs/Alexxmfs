@@ -37,7 +37,6 @@
   <a href = "https://github.com/Alexxmfs/Alexxmfs/blob/https/github.com/Alexxmfs/245tp1/Alex%20Macedo%20-%20(Portugu%C3%AAs)%20CV.pdf">
   <img src="https://img.shields.io/badge/📄%20Resume-24292e?style=for-the-badge&labelColor=24292e" target="_blank"></a>
 
-    
   ![Snake animation](https://github.com/Alexxmfs/Alexxmfs/blob/output/github-contribution-grid-snake.svg)
     
   </div>
